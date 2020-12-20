@@ -165,6 +165,16 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap-grid.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap-grid.min.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap-reboot.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap-reboot.min.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\css\bootstrap.min.css" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\js\bootstrap.bundle.js" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\js\bootstrap.bundle.min.js" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\js\bootstrap.js" />
+    <Content Include="Assets\bootstrap-4.5.3-dist\js\bootstrap.min.js" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
